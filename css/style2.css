@@ -1,0 +1,17 @@
+.h1a{padding:20px 10px;font-weight:normal;font-size:36px;line-height:46px;text-align:center;color:#F39191 }
+.containerOneA{border-style:groove;border-color: #F39191;height:850px;background-color: rgba(255,255,255,0.40);background-repeat:no-repeat;background-size:cover;}
+.containerTwoA{border-style:groove;border-color: #F39191;height:1200px;background-image: url("../img/背景图.jpg");background-repeat:no-repeat;background-size:cover;}
+.partTwo-wrapper{margin-top:50px;}
+.caseOneA{width:30%;float:left;margin-left:30px;margin-right:35px;margin-top:20px;border-style:dashed;border-color: rgba(238,160,162,1.00)}
+.caseTwoA{width:30%;float:left;margin-right:35px;margin-top:20px;border-style:dashed;border-color: rgba(238,160,162,1.00)}
+.caseThreeA{width:30%;float:left;margin-top:20px;border-style:dashed;border-color: rgba(238,160,162,1.00);}
+.caseFourA{float:left;margin-left:30px;margin-right:25px;margin-top:250px;border-style:dashed;border-color: rgba(238,160,162,1.00);background-color: rgba(255,255,255,0.90);}
+.caseFourA-text{width:50%;float:left;margin-left: 2%;margin-right: 2%;}
+.caseFourA-picture{width:45%;float:right;margin-right:1%;margin-top:8%;}
+.caseOneA img{width:400px;height:275px;margin-left:0px;}
+.caseTwoA img{width:400px;height:275px;margin-left:0px;}
+.caseThreeA img{width:400px;height:275px;margin-left:0px;}
+.olA{font-weight:normal;font-size:25px;line-height:25px;color:#F39191}
+.liA{text-align:left;type:disc;color: rgba(0,0,0,1.00)}
+.one{max-width:100%;}
+.two{max-width:100%;}

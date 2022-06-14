@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {font-size: 28px;}
+	.container{width:100%;background-color:lightblue;height:auto}
+	.ulc {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;position: -webkit-sticky; /* Safari */position: sticky;top: 0;}/*导航栏*/
+	.lic {float: left;width: 20%;}
+	.lic a {display: block;color: white;text-align: center;padding: 14px 16px;text-decoration: none;}
+	.lic a:hover {background-color: #111;}
+	td{text-align: center;}
+
+	a:hover,a:active { background-color:aquamarine; cursor:auto}
